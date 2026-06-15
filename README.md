@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:a985ff,100:000000&height=230&section=header&text=Aditya%20Khare&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:4B367C,100:a985ff&height=220&section=header&text=Aditya%20Khare&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=58&descAlign=50&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=A985FF&center=true&vCenter=true&width=950&lines=Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Learner;Generative+AI+Explorer;Building+Real-World+AI+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=A985FF&center=true&vCenter=true&width=900&lines=Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Learner;Generative+AI+Explorer;Building+Real-World+AI+Projects" />
 </p>
 
 <p align="center">
@@ -18,51 +18,48 @@
   <a href="mailto:khareaditya0812@gmail.com">
     <img src="https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Adityakhare123&style=for-the-badge&color=000000&labelColor=000000" />
 </p>
 
 ---
 
 ## About Me
 
-<table>
-<tr>
-<td width="62%">
+I am an aspiring **Python Developer** focused on building practical projects in **Machine Learning, Computer Vision, Generative AI, NLP, and Automation**.
 
-<h3>Hi, I'm Aditya Khare</h3>
+I am currently working on an **AI Document Extraction & Auto Form Filling System**, where the goal is to extract useful information from documents and use that extracted data to automate form-filling workflows.
 
-I am an aspiring <b>Python Developer</b> focused on building real-world projects in <b>Machine Learning, Computer Vision, Generative AI, and Automation</b>.
+My current learning focus is **Python, OpenCV, Scikit-learn, NLP, LLMs, RAG, Prompt Engineering, Ollama, and Microsoft Copilot Studio**.
 
-* Currently working on <b>Cricket Bat Toe Detection using YOLOv8</b>
-* Learning <b>Python, Machine Learning, Deep Learning, OpenCV, and Generative AI</b>
-* Building projects in <b>Computer Vision, ML Classification, NLP, and AI Chatbot Development</b>
-* Exploring <b>LLMs, RAG, Prompt Engineering, Ollama, and Microsoft Copilot Studio</b>
-* Goal: become a strong <b>Python Developer / AI-ML Developer</b>
-
-</td>
-<td width="38%" align="center">
-
-<img width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/currently%20building-ai%20document%20extraction%20system-%23000000.svg?style=for-the-badge&logo=googledocs&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/automation-auto%20form%20filling-%23000000.svg?style=for-the-badge&logo=googleforms&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/focus-python%20development-%23000000.svg?style=for-the-badge&logo=python&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/goal-ai%20ml%20developer-%23000000.svg?style=for-the-badge&logo=openai&logoColor=a985ff" />
+</p>
 
 ---
 
 ## Currently Working On
 
-### Cricket Bat Toe Detection using YOLOv8
+### AI Document Extraction & Auto Form Filling System
 
-A computer vision project that detects cricket bats and identifies the toe region using YOLOv8 and OpenCV.
+A Python-based AI automation system focused on extracting structured information from documents and using it to reduce manual form-filling work.
 
 <p>
   <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=a985ff" />
-  <img src="https://img.shields.io/badge/yolov8-%23000000.svg?style=for-the-badge&logo=ultralytics&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/document%20extraction-%23000000.svg?style=for-the-badge&logo=googledocs&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/form%20automation-%23000000.svg?style=for-the-badge&logo=googleforms&logoColor=a985ff" />
   <img src="https://img.shields.io/badge/opencv-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=a985ff" />
-  <img src="https://img.shields.io/badge/roboflow-%23000000.svg?style=for-the-badge&logo=roboflow&logoColor=a985ff" />
-  <img src="https://img.shields.io/badge/jupyter-%23000000.svg?style=for-the-badge&logo=jupyter&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/nlp-%23000000.svg?style=for-the-badge&logo=spacy&logoColor=a985ff" />
 </p>
+
+Core focus:
+
+* Document data extraction
+* Text preprocessing
+* Information structuring
+* Automated form filling
+* AI-assisted workflow automation
 
 ---
 
@@ -117,6 +114,26 @@ A computer vision project that detects cricket bats and identifies the toe regio
 <tr>
 <td width="50%">
 
+<h3>AI Document Extraction & Auto Form Filling System</h3>
+
+Python-based automation system for extracting structured information from documents and using it for form-filling workflows.
+
+<p>
+  <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/document%20extraction-%23000000.svg?style=for-the-badge&logo=googledocs&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/form%20automation-%23000000.svg?style=for-the-badge&logo=googleforms&logoColor=a985ff" />
+</p>
+
+Focus areas:
+
+* Document information extraction
+* Text preprocessing
+* Structured data generation
+* Form automation
+
+</td>
+<td width="50%">
+
 <h3>Cricket Bat Toe Detection Using YOLOv8</h3>
 
 Computer vision project that detects cricket bats and identifies the toe region using YOLOv8 and OpenCV.
@@ -133,25 +150,6 @@ Use cases:
 * Toe guard detection
 * Bat wear analysis
 * Automated cricket equipment assessment
-
-</td>
-<td width="50%">
-
-<h3>Algo Trading Bot</h3>
-
-Python-based trading bot project focused on automation and trading strategy testing.
-
-<p>
-  <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=a985ff" />
-  <img src="https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=a985ff" />
-  <img src="https://img.shields.io/badge/automation-%23000000.svg?style=for-the-badge&logo=python&logoColor=a985ff" />
-</p>
-
-Features:
-
-* Trading logic
-* Strategy testing
-* Data-driven automation
 
 </td>
 </tr>
