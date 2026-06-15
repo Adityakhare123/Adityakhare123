@@ -24,18 +24,29 @@
 
 ## About Me
 
-I am an aspiring **Python Developer** focused on building practical projects in **Machine Learning, Computer Vision, Generative AI, NLP, and Automation**.
+<table>
+<tr>
+<td width="62%" valign="middle">
 
-I am currently working on an **AI Document Extraction & Auto Form Filling System**, where the goal is to extract useful information from documents and use that extracted data to automate form-filling workflows.
+<h3>Hi, I'm Aditya Khare</h3>
 
-My current learning focus is **Python, OpenCV, Scikit-learn, NLP, LLMs, RAG, Prompt Engineering, Ollama, and Microsoft Copilot Studio**.
+I am an aspiring <b>Python Developer</b> focused on building practical projects in <b>Machine Learning, Computer Vision, Generative AI, NLP, and Automation</b>.
 
-<p>
-  <img src="https://img.shields.io/badge/currently%20building-ai%20document%20extraction%20system-%23000000.svg?style=for-the-badge&logo=googledocs&logoColor=a985ff" />
-  <img src="https://img.shields.io/badge/automation-auto%20form%20filling-%23000000.svg?style=for-the-badge&logo=googleforms&logoColor=a985ff" />
-  <img src="https://img.shields.io/badge/focus-python%20development-%23000000.svg?style=for-the-badge&logo=python&logoColor=a985ff" />
-  <img src="https://img.shields.io/badge/goal-ai%20ml%20developer-%23000000.svg?style=for-the-badge&logo=openai&logoColor=a985ff" />
-</p>
+I am currently working on an <b>AI Document Extraction & Auto Form Filling System</b>, where the goal is to extract useful information from documents and use that extracted data to automate form-filling workflows.
+
+My current learning focus is <b>Python, OpenCV, Scikit-learn, NLP, LLMs, RAG, Prompt Engineering, Ollama, and Microsoft Copilot Studio</b>.
+
+I am building my skills through hands-on projects and improving my ability to create useful AI-powered applications.
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
+
 
 ---
 
