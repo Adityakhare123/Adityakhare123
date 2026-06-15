@@ -1,4 +1,4 @@
-````md
+
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Aditya%20Khare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=58&descAlign=50" />
