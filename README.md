@@ -34,8 +34,6 @@ I am currently working on an **AI Document Extraction & Auto Form Filling System
 
 My current learning focus is **Python, OpenCV, Scikit-learn, NLP, LLMs, RAG, Prompt Engineering, Ollama, and Microsoft Copilot Studio**.
 
-I am building my skills through hands-on projects and improving my ability to create useful AI-powered applications.
-
 <br clear="right"/>
 
 
