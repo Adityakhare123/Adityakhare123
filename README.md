@@ -1,21 +1,26 @@
-
 <!-- HEADER BANNER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Aditya%20Khare&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F00FF,100:E100FF&height=240&section=header&text=Aditya%20Khare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20YOLOv8&descAlignY=58&descAlign=50" />
 </p>
 
 <!-- TYPING ANIMATION -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&pause=800&color=B967FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aditya+Khare+%F0%9F%91%8B;Aspiring+Python+Developer+%F0%9F%90%8D;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Computer+Vision+Learner+%F0%9F%91%81%EF%B8%8F;Building+Real-World+Projects+with+YOLOv8+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=700&color=B967FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Aditya+Khare+%F0%9F%91%8B;Aspiring+Python+Developer+%F0%9F%90%8D;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Computer+Vision+Learner+%F0%9F%91%81%EF%B8%8F;Building+Real-World+Projects+with+YOLOv8+%F0%9F%9A%80;Turning+Ideas+into+Working+Projects+%E2%9A%A1" />
 </p>
 
 <!-- SOCIAL BADGES -->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/adityakhare0812">
-    <img src="https://img.shields.io/badge/LINKEDIN-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Adityakhare123">
-    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:khareaditya0812@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E100FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Adityakhare123&style=for-the-badge&color=7F00FF" />
 </p>
@@ -24,26 +29,26 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
+```python
 class AdityaKhare:
     def __init__(self):
         self.role = "Aspiring Python Developer"
-        self.interests = ["Machine Learning", "Computer Vision", "AI", "Automation"]
+        self.focus = ["Machine Learning", "Computer Vision", "AI", "Automation"]
         self.current_project = "Cricket Bat Toe Detection using YOLOv8"
-        self.learning = ["Python", "OpenCV", "YOLOv8", "Deep Learning"]
+        self.tech_stack = ["Python", "OpenCV", "YOLOv8", "Scikit-Learn", "Pandas"]
         self.goal = "Build real-world AI/ML projects"
 
     def say_hi(self):
-        return "Thanks for visiting my GitHub profile!"
-
+        return "Welcome to my GitHub profile!"
+```
 
 * 🔭 Currently working on **Cricket Bat Toe Detection using YOLOv8**
 * 🌱 Learning **Python, Machine Learning, Deep Learning, OpenCV, and AI**
 * 👨‍💻 Building projects in **Computer Vision, ML Classification, and Automation**
 * 🎯 Goal: Become a strong **Python Developer / AI-ML Developer**
-* ⚡ Fun fact: I love turning ideas into real projects
+* ⚡ Fun fact: I love turning ideas into real working projects
 
 <br clear="right"/>
 
@@ -61,11 +66,14 @@ class AdityaKhare:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  <br/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-7F00FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-E100FF?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLOv8-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-E100FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7F00FF?style=for-the-badge" />
 </p>
 
 ### 🧰 Tools & Platforms
@@ -82,12 +90,15 @@ class AdityaKhare:
 <tr>
 <td width="50%">
 
-### 🏏 Cricket Bat Toe Detection Using YOLOv8
+<h3 align="center">🏏 Cricket Bat Toe Detection Using YOLOv8</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/YOLOv8-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-E100FF?style=for-the-badge&logo=opencv" />
+</p>
 
 Computer vision project that detects cricket bats and identifies the toe region using **YOLOv8 and OpenCV**.
-
-**Tech Used:**
-`Python` `YOLOv8` `OpenCV` `Roboflow` `Jupyter`
 
 **Use Cases:**
 
@@ -99,12 +110,15 @@ Computer vision project that detects cricket bats and identifies the toe region 
 </td>
 <td width="50%">
 
-### 🤖 Algo Trading Bot
+<h3 align="center">🤖 Algo Trading Bot</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Automation-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-E100FF?style=for-the-badge" />
+</p>
 
 Python-based trading bot project focused on automation and trading strategy testing.
-
-**Tech Used:**
-`Python` `Automation` `Data Analysis`
 
 **Features:**
 
@@ -118,12 +132,15 @@ Python-based trading bot project focused on automation and trading strategy test
 <tr>
 <td width="50%">
 
-### 📩 SMS Spam Classifier
+<h3 align="center">📩 SMS Spam Classifier</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/NLP-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-E100FF?style=for-the-badge" />
+</p>
 
 Machine learning project that classifies SMS messages as **spam** or **not spam**.
-
-**Tech Used:**
-`Python` `Machine Learning` `NLP` `Scikit-Learn`
 
 **Features:**
 
@@ -134,12 +151,15 @@ Machine learning project that classifies SMS messages as **spam** or **not spam*
 </td>
 <td width="50%">
 
-### ⛏️ Rock vs Mine Prediction
+<h3 align="center">⛏️ Rock vs Mine Prediction</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-E100FF?style=for-the-badge&logo=pandas" />
+</p>
 
 Machine learning classification project using sonar dataset.
-
-**Tech Used:**
-`Python` `Machine Learning` `Pandas` `Scikit-Learn`
 
 **Features:**
 
@@ -156,24 +176,16 @@ Machine learning classification project using sonar dataset.
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adityakhare123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B967FF&icon_color=B967FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adityakhare123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B967FF&icon_color=E100FF&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakhare123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B967FF&text_color=FFFFFF" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adityakhare123&theme=midnight-purple&hide_border=true&background=0D1117&ring=B967FF&fire=E100FF&currStreakLabel=B967FF" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityakhare123&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adityakhare123&theme=midnight-purple&hide_border=true&background=0D1117&ring=B967FF&fire=E100FF&currStreakLabel=B967FF&sideLabels=FFFFFF&dates=FFFFFF" />
 </p>
 
 ---
@@ -181,15 +193,19 @@ Machine learning classification project using sonar dataset.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityakhare123&bg_color=0D1117&color=B967FF&line=E100FF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityakhare123&bg_color=0D1117&color=B967FF&line=E100FF&point=FFFFFF&area=true&hide_border=true&custom_title=Aditya%20Khare's%20Contribution%20Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Developer Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adityakhare123/Adityakhare123/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://img.shields.io/badge/Code-Python-7F00FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-E100FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vision-OpenCV-7F00FF?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model-YOLOv8-E100FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -219,6 +235,5 @@ Machine learning classification project using sonar dataset.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,50:7F00FF,100:0D1117&height=130&section=footer" />
 </p>
-```
