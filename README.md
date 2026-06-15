@@ -24,17 +24,20 @@
 
 ## About Me
 
-<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### Hi, I'm Aditya Khare
 
-I am an aspiring **Python Developer** focused on building practical projects in **Machine Learning, Computer Vision, Generative AI, NLP, and Automation**.
+I am an aspiring **Python Developer** building practical projects in **Machine Learning, Computer Vision, Generative AI, NLP, and Automation**.
 
-I am currently working on an **AI Document Extraction & Auto Form Filling System**, where the goal is to extract useful information from documents and use that extracted data to automate form-filling workflows.
+Currently, I am working on an **AI Document Extraction & Auto Form Filling System** that extracts useful information from documents and automates form-filling workflows.
 
-My current learning focus is **Python, OpenCV, Scikit-learn, NLP, LLMs, RAG, Prompt Engineering, Ollama, and Microsoft Copilot Studio**.
+My current focus is **Python, OpenCV, Scikit-learn, NLP, LLMs, RAG, Prompt Engineering, Ollama, and Microsoft Copilot Studio**.
 
 <br clear="right"/>
+
+---
+
 
 
 
