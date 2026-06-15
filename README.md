@@ -27,22 +27,15 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👋 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="60%">
 
-```python
-class AdityaKhare:
-    def __init__(self):
-        self.role = "Aspiring Python Developer"
-        self.focus = ["Machine Learning", "Computer Vision", "AI", "Automation"]
-        self.current_project = "Cricket Bat Toe Detection using YOLOv8"
-        self.tech_stack = ["Python", "OpenCV", "YOLOv8", "Scikit-Learn", "Pandas"]
-        self.goal = "Build real-world AI/ML projects"
+<h3>Hi, I'm Aditya Khare 🚀</h3>
 
-    def say_hi(self):
-        return "Welcome to my GitHub profile!"
-```
+I am an aspiring <b>Python Developer</b> focused on building real-world projects in <b>Machine Learning, Computer Vision, AI, and Automation</b>.
 
 * 🔭 Currently working on **Cricket Bat Toe Detection using YOLOv8**
 * 🌱 Learning **Python, Machine Learning, Deep Learning, OpenCV, and AI**
@@ -50,11 +43,29 @@ class AdityaKhare:
 * 🎯 Goal: Become a strong **Python Developer / AI-ML Developer**
 * ⚡ Fun fact: I love turning ideas into real working projects
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center">
+
+<img width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Tech Arsenal
+## 🧠 Developer Profile
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Aspiring%20Python%20Developer-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-E100FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-Computer%20Vision-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-YOLOv8-E100FF?style=for-the-badge" />
+</p>
+
+---
+
+## 🛠️ Tech Arsenal
 
 ### 🚀 Programming Languages
 
@@ -84,7 +95,7 @@ class AdityaKhare:
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> Featured Projects
+## 🏆 Featured Projects
 
 <table>
 <tr>
@@ -173,19 +184,11 @@ Machine learning classification project using sonar dataset.
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adityakhare123&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B967FF&icon_color=E100FF&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakhare123&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=B967FF&text_color=FFFFFF" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adityakhare123&theme=midnight-purple&hide_border=true&background=0D1117&ring=B967FF&fire=E100FF&currStreakLabel=B967FF&sideLabels=FFFFFF&dates=FFFFFF" />
 </p>
 
 ---
@@ -198,7 +201,17 @@ Machine learning classification project using sonar dataset.
 
 ---
 
-## 🏆 Developer Badges
+## ⚡ Developer Mode
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Building-Cricket%20Bat%20Toe%20Detection-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Deep%20Learning-E100FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-AI%2FML%20Developer-7F00FF?style=for-the-badge" />
+</p>
+
+---
+
+## 🏅 Developer Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-7F00FF?style=for-the-badge&logo=python&logoColor=white" />
