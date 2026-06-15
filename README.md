@@ -38,11 +38,6 @@ My current focus is **Python, OpenCV, Scikit-learn, NLP, LLMs, RAG, Prompt Engin
 
 ---
 
-
-
-
----
-
 ## Currently Working On
 
 ### AI Document Extraction & Auto Form Filling System
