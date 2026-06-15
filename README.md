@@ -26,7 +26,7 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```python
+
 class AdityaKhare:
     def __init__(self):
         self.role = "Aspiring Python Developer"
@@ -37,7 +37,7 @@ class AdityaKhare:
 
     def say_hi(self):
         return "Thanks for visiting my GitHub profile!"
-````
+
 
 * 🔭 Currently working on **Cricket Bat Toe Detection using YOLOv8**
 * 🌱 Learning **Python, Machine Learning, Deep Learning, OpenCV, and AI**
