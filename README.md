@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/adityakhare0812">
     <img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=a985ff" />
   </a>
-  <a href="https://github.com/Adityakhare123">
-    <img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff" />
+  <a href="https://portfolio-website-agent22.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=a985ff" />
   </a>
   <a href="mailto:khareaditya0812@gmail.com">
     <img src="https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff" />
@@ -223,8 +223,8 @@ Features:
   <a href="mailto:khareaditya0812@gmail.com">
     <img src="https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=a985ff" />
   </a>
-  <a href="https://github.com/Adityakhare123">
-    <img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=a985ff" />
+  <a href="https://portfolio-website-agent22.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=a985ff" />
   </a>
 </p>
 
