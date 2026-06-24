@@ -141,14 +141,16 @@ Computer vision project that detects cricket bats and identifies the toe region 
   <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=a985ff" />
   <img src="https://img.shields.io/badge/yolov8-%23000000.svg?style=for-the-badge&logo=ultralytics&logoColor=a985ff" />
   <img src="https://img.shields.io/badge/opencv-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/streamlit-%23000000.svg?style=for-the-badge&logo=streamlit&logoColor=a985ff" />
 </p>
 
-Use cases:
+Features:
 
-* Bat quality inspection
-* Toe guard detection
-* Bat wear analysis
-* Automated cricket equipment assessment
+* Image and video detection
+* Cricket bat localization
+* Cricket bat toe region detection
+* Smart prediction correction
+* Streamlit-based web interface
 
 </td>
 </tr>
@@ -156,40 +158,46 @@ Use cases:
 <tr>
 <td width="50%">
 
-<h3>SMS Spam Classifier</h3>
+<h3>OneTrade-AI</h3>
 
-Machine learning project that classifies SMS messages as spam or not spam.
+AI-based trading dashboard that allows users to manage trade entries, track recent trades, and receive ML-based market prediction suggestions.
 
 <p>
-  <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=a985ff" />
-  <img src="https://img.shields.io/badge/nltk-%23000000.svg?style=for-the-badge&logo=python&logoColor=a985ff" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/sqlite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/tensorflow-%23000000.svg?style=for-the-badge&logo=tensorflow&logoColor=a985ff" />
 </p>
 
 Features:
 
-* Text preprocessing
-* Classification model
-* Spam detection
+* User signup and login
+* Trading dashboard
+* Profit target and stop-loss tracking
+* Recent trade history
+* LSTM-based prediction workflow
 
 </td>
 <td width="50%">
 
-<h3>Rock vs Mine Prediction</h3>
+<h3>USA Flight Delay Analysis</h3>
 
-Machine learning classification project using sonar dataset.
+Streamlit-based machine learning application for analyzing USA airline delay patterns and predicting possible flight delays.
 
 <p>
   <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=a985ff" />
+  <img src="https://img.shields.io/badge/streamlit-%23000000.svg?style=for-the-badge&logo=streamlit&logoColor=a985ff" />
   <img src="https://img.shields.io/badge/pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=a985ff" />
   <img src="https://img.shields.io/badge/scikit--learn-%23000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=a985ff" />
 </p>
 
 Features:
 
-* Binary classification
-* Model training
-* Prediction system
+* Interactive delay analytics dashboard
+* Airline and airport delay analysis
+* Route and weekday delay trends
+* Delay prediction model
+* Prediction confidence and reason breakdown
 
 </td>
 </tr>
